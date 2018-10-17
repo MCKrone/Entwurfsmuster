@@ -1,4 +1,4 @@
-package iteratorComposite;
+package iteratorComposite_KbF;
 
 public class Raum extends GebäudeKomponente{
 

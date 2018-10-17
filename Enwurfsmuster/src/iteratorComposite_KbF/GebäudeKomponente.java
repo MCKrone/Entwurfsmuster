@@ -1,4 +1,4 @@
-package iteratorComposite;
+package iteratorComposite_KbF;
 
 public abstract class GebäudeKomponente {
 	

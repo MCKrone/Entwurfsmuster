@@ -1,7 +1,7 @@
 package templateMethod;
 
-import iteratorComposite.Komponente;
-import iteratorComposite.GebäudeKomponente;
+import iteratorComposite_KbF.GebäudeKomponente;
+import iteratorComposite_KbF.Komponente;
 
 public class HausZeichner extends HausbauTemplate{
 

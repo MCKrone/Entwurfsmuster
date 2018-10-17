@@ -1,4 +1,4 @@
-package iteratorComposite;
+package iteratorComposite_KbF;
 
 import java.util.ArrayList;
 import java.util.Iterator;
